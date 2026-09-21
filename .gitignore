@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Embedded Python runtime & distribution archives
+python_embed/
+*.zip
+*.tar.gz
+*.7z
+
+# Virtual environments
+venv/
+env/
+.venv/
+data_suite/
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
